@@ -1,5 +1,5 @@
 import { FaSpotify, FaCalendar } from "react-icons/fa";
-import { Button } from "./Components";
+import { Button } from "./Components/Button/Button";
 
 function App() {
   return (
